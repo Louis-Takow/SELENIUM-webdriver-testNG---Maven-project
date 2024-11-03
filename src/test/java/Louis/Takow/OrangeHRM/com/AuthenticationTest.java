@@ -1,7 +1,5 @@
 package Louis.Takow.OrangeHRM.com;
 
-
-
 import Pages.DashboardPage;
 import base.Hooks;
 import Pages.LoginPage;

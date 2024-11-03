@@ -1,4 +1,4 @@
-# Web UI Automation - OrangeHRM Authentication Tests
+# Web UI Automation - SNIPE-IT Authentication Tests
 
 This project focuses on developing automated UI tests using Selenium for the SNIPE-IT application, specifically validating user authentication functionalities.
 
