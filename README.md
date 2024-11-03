@@ -75,7 +75,7 @@ This automation assessment focuses on validating UI testing for user authenticat
 - **Page Object Model (POM):** Implemented to centralize locators and operations within dedicated classes (`LoginPage` and `DashboardPage`), improving organization and reusability across tests for automated UI functionality.
 - **Separation of Concerns:** Each test case is designed to focus on a specific functionality, enhancing readability and maintainability of the codebase.
 - **Response Validation:** Each UI interaction is followed by assertions to verify the correctness of UI elements, ensuring a consistent user experience.
-- **Data Management:** Use of constants for credentials within the test class to promote reusability and easy modification of test data.
+- **Data Management:** The Hooks file manages the WebDriver setup and teardown, so the tests can run without issues
 - **Validate Positive and Negative Path:** Testing valid, invalid and unexpected conditions.
 
 ## Conclusion
