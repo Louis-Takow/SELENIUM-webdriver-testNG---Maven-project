@@ -7,7 +7,18 @@
     <groupId>org.example</groupId>
     <artifactId>SELENIUMproject1</artifactId>
     <version>1.0-SNAPSHOT</version>
-
+    <developers>
+        <developer>
+            <id>louis</id>
+            <name>Louis Tabot Takow</name>
+            <email>louistt1995@gmail.com</email>
+            <roles>
+                <role>author</role>
+            </roles>
+            <organization>Arc.dev()</organization>
+            <organizationUrl> https://arc.dev/@louistakow</organizationUrl>
+        </developer>
+    </developers>
     <properties>
         <maven.compiler.source>11</maven.compiler.source>
         <maven.compiler.target>11</maven.compiler.target>
